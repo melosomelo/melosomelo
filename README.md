@@ -76,3 +76,13 @@ I'm **Matt**. A web developer and computer science student 🚀
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style = "margin-left: 12px;"/>
 
 </div>
+
+## Contact
+
+Reaching me is super easy.
+
+<img alt="Gmail" src="https://img.shields.io/badge/mateusmelornrn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href = "https://www.linkedin.com/in/mateus-nascimento-654589191/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
